@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ObjRepo>
+	<strUser>input[name=username]</strUser>
+	<strPwd>password</strPwd>
+	<loginBtn>.radius</loginBtn>
+	<msg>.flash.success</msg>
+</ObjRepo>

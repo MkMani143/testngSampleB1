@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ObjRepo>
+	<signupBtn>signup</signupBtn>
+	<Name>s-name</Name>
+	<surname>s-surname</surname>
+	<email>s-email</email>
+	<password>s-password2</password>
+	<radioBtn>myself</radioBtn>
+	<checkBox>privacy-policy</checkBox>
+	<regBtn>register-btn</regBtn>
+	<searchItem>searchbar</searchItem>
+	<searchBtn>button-search</searchBtn>
+	<itemclick>li.preview</itemclick>
+	<BookDetail>div.detail-text-content</BookDetail>
+	<AddtoCart>(//button[@class='call-to-action'])[2]</AddtoCart>
+	<checkoutBtn>(//button[@class='call-to-action'])[2]</checkoutBtn>
+	<address>s-address</address>
+	<zipcode>s-zipcode</zipcode>
+	<city>s-city</city>
+</ObjRepo>
